@@ -31,6 +31,8 @@ account overview on www.kaggle.com. Once uploaded, the script will move the .jso
 
 4. Finally, I explored the top 10 hosts in Seattle.
 
+## Blog
+The summary of findings is available here: https://medium.com/@kyle.barz/sleepless-in-seattle-an-exploration-of-airbnb-data-d458426d6cc0
 
 ## Acknowledgments
 
